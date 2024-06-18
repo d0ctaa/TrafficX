@@ -9999,3 +9999,4 @@ trfk/lib/python3.11/site-packages/numpy-2.0.0.dist-info/METADATA
 trfk/lib/python3.11/site-packages/numpy-2.0.0.dist-info/RECORD
 trfk/lib/python3.11/site-packages/numpy-2.0.0.dist-info/WHEEL
 US_Accidents_March23.csv
+.gitignore
